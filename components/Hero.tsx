@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <header className='hero hero-micbol transition-micbol '>
       <div className='bg-white opacity-[0.9]     text-center uppercase p-[1rem] sm:p-[2rem] inline-block  '>
-        <h1 className='font-extrabold sm:text-3xl text-2xl    tracking-wider text-black lg:text-4xl  '>
+        <h1 className='font-extrabold w-[15rem] sm:text-3xl text-2xl    tracking-wider text-black lg:text-4xl  '>
           furniture collection
         </h1>
         <button className='btn bg-orange-400 text-black mt-[2rem] transition-micbol hover:bg-transparent sm:text-lg text-md hover:text-orange-400 uppercase border-none   font-bold  '>
